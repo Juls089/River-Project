@@ -9,9 +9,9 @@ https://river-project.nl
 # Current Projects 
 
 ### Hardware Projects
-- [ ] RiverPi 
-- [ ] RiverUSB
+- [ ] RiverPi https://river-pi.nl
+- [ ] RiverUSB https://river-usb.nl
 
 ### Software Projects
-- [ ] RiverOS-Jailbreak
-- [X] RiverM-FiveM-Projects
+- [ ] RiverOS-Jailbreak https://river-jb.nl
+- [X] RiverM-FiveM-Projects https://river-fivem.nl
