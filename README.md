@@ -8,9 +8,9 @@
 # Current Projects 
 
 ### Hardware Projects
-- [] RiverPi
-- [] RiverUSB
+- [ ] RiverPi
+- [ ] RiverUSB
 
 ### Software Projects
-- [] RiverOS-Jailbreak
+- [ ] RiverOS-Jailbreak
 - [X] RiverM-FiveM-Projects
