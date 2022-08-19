@@ -13,5 +13,6 @@ https://river-project.nl
 - [ ] RiverUSB https://river-usb.nl
 
 ### Software Projects
+- [ ] River-Wallet https://river-wallet.nl
 - [ ] RiverOS-Jailbreak https://river-jb.nl
 - [X] RiverM-FiveM-Projects https://river-fivem.nl
